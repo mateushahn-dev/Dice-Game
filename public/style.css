@@ -1,0 +1,39 @@
+* {
+    background-color: darkgreen;
+    color: #fff;
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 6rem;
+    margin: 5% 0;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+div {
+    display: inline-block;
+    margin: 2% 4%;
+}
+
+.img-init {
+    margin: 20% 0;
+}
+
+button {
+    margin: 5% 2%;
+    padding: 10px;
+    background-color: aliceblue;
+    color: #2C2A40;
+    border-radius: 30px;
+    border: none;
+    width: 230px;
+    height: 40px;
+    font-size: 1.1rem;
+}
+
+footer {
+    margin: 8%;
+}
